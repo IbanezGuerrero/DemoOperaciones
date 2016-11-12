@@ -105,7 +105,7 @@ public class FmOperaciones extends javax.swing.JFrame {
     private void btnSumarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSumarActionPerformed
        int numA = Integer.parseInt(txtA.getText());
        int numB = Integer.parseInt(txtB.getText());
-        JOptionPane.showMessageDialog(this, "La suma es = " +(numA + numB));
+        JOptionPane.showMessageDialog(this, "La sumatoriade los numeros es = " +(numA + numB));
     }//GEN-LAST:event_btnSumarActionPerformed
 
     /**
